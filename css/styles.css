@@ -1,0 +1,207 @@
+body {
+  width:100%;
+  margin: 0;
+  background-color: #89D4FF;
+  background:url(../img/background.jpg) top right no-repeat; background-attachment:fixed;
+  /*background:url(your-image.jpg) top right no-repeat; background-attachment:fixed;
+  background-size: 100%;*/
+  background-position: center;
+
+}
+
+.titletext {
+  margin-right: 250px;
+
+}
+
+.container {
+  width: 100%;
+
+}
+
+
+.panel-body {
+  padding: 15px;
+
+}
+
+.panel-footer-info{
+  background-color: #d9edf7;
+  border-bottom-color: #bce8f1;
+  border-color: #bce8f1;
+
+}
+
+.container .jumbotron {
+  border-bottom-right-radius: 70px;
+  border-bottom-left-radius: 70px;
+  background-color: #FDFED2;
+  border: 20px solid #ecf084;
+  border-top: 0px;
+  width: 100%;
+  font-family: fantasy;
+  height: 190px;
+  top: 0px;
+  left: 0px;
+  padding-top: 10px;
+
+}
+
+.jumbotron img {
+  padding-top: 0px;
+  height: 160px;
+
+}
+
+@media screen and (max-width: 1170px) {
+  .container .jumbotron {
+    height: 250px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .container .jumbotron {
+    height: 430px;
+  }
+
+}
+/*.clip{
+  position: relative;
+    Overflow: hidden;
+  height: 100px;
+  width: 100px;
+
+}
+.clip img{
+    position: absolute;
+    top: -50px;
+    left: 0px;
+}
+
+}
+
+.jumbotron .problem {
+  padding-top: 0px;
+
+}
+*/
+.bubbley {
+  border-radius: 50%;
+  background-color: #FCFF8C;
+  border: 10px solid #FAFF36;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+/*.bubbley p {
+
+
+}
+
+/*.bubbley img {
+    padding-top: 50px;
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+}*/
+
+.bubblel {
+  border-radius: 50%;
+  background-color: #A5FFA4;
+  border: 10px solid #50FE4E;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+.bubbleg {
+  border-radius: 50%;
+  background-color: #82DB7C;
+  border: 10px solid #0CB801;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+.bubbley {
+  border-radius: 50%;
+  background-color: #FCFF8C;
+  border: 10px solid #FAFF36;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+
+.bubblet {
+  border-radius: 50%;
+  background-color: #AFFFF7;
+  border: 10px solid #54FFEF;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+
+.bubbleb {
+  border-radius: 50%;
+  background-color: #AAE0FF;
+  border: 10px solid #58C2FF;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+    margin-left: 40px;
+}
+.bubbled {
+  border-radius: 50%;
+  background-color: #94AFFF;
+  border: 10px solid #4975F9;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 40px;
+}
+
+.well {
+ width: 100%;
+ border-radius: 60px;
+ margin: 20px;
+}
+.well img {
+  width: 99%;
+  border-radius: 30px;
+}
+
+.panel-danger {
+  float: right;
+  width: 50%;
+  background-color: #ffffff;
+  max-width: 500px;
+}
+
+.panel-footer {
+  background-color: #f2dede;
+
+}
+
+h2 {
+  font-family: fantasy;
+
+}
+
+
+/*.splash {
+  width: 100%;
+  height: 550px;
+  background-position: center;
+  background-size: cover;
+}
+#splashhome {
+  background-image: url(../img/background.jpg);*/
