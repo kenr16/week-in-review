@@ -6,7 +6,7 @@
 
 ## Description
 
-_{These two webpages are from an index of what we have covered during our first week and a travel webpage that are constructed in HTML and CSS with elements pulled from a bootstrap CSS file. }_
+_These two webpages are from an index of what we have covered during our first week and a travel webpage that are constructed in HTML and CSS with elements pulled from a bootstrap CSS file._
 
 ## Setup/Installation Requirements
 
@@ -24,10 +24,8 @@ _Contact either Ken Rutan or Galen McMahon via the appropriate Github page._
 
 ## Technologies Used
 
-_{This webpage was constructed using HTML and CSS, pulling elements from a pre-constructed Bootstrap CSS file.}_
+_This webpage was constructed using HTML and CSS, pulling elements from a pre-constructed Bootstrap CSS file._
 
 ### License
 
-*MIT License*
-
-Copyright (c) 2016 **_Ken Rutan Galin McMahon_**
+Copyright (c) 2016 MIT License **_Ken Rutan Galin McMahon_**
